@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @souradip07
+- 👋 Hi, I’m @souradip-ghosh
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning python & genarative AI
-- 💞️ I’m looking to collaborate on projects based on python
-- 📫 How to reach me souradip07ghosh@gmail.com
+- 💞️ I’m looking for a technical job
+- 📫 To reach me just mail at souradip07ghosh@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Nothing
+- ⚡ Fun fact: Did you know that GitHub's mascot, the Octocat was created by graphic designer Simon Oxley?
